@@ -16,7 +16,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Lwfe fwef wrfwe rfe fwe fef efre 
+          werfwemw
         </a>
       </header>
     </div>
