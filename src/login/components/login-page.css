@@ -1,0 +1,46 @@
+.container {
+  overflow-y: auto;
+  position: relative;
+  display: flex; 
+}
+
+.imageContainer {
+  width: auto;
+  height: 100vh;
+  object-fit: cover;
+  position: relative;
+}
+
+.logoOverlay {
+  position: absolute;
+  top: 16px;
+  left: 16px;
+  z-index: 10; 
+}
+
+.loginForm {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.loginTitle {
+  margin-bottom: 16px;
+}
+
+.loginInput {
+  margin-bottom: 16px;
+}
+
+.loginButton {
+  margin-top: 24px !important;
+}
+
+.forgotPasswordLink {
+  font-size: 0.875rem !important;
+  color: #1976d2;
+  text-decoration: none !important;
+  margin-top: 8px;
+}

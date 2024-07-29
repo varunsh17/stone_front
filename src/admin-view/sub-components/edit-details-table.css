@@ -1,0 +1,25 @@
+   .HeaderImage {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .adminFooter {
+    background: #8F8F8F;
+    margin-top: inherit;
+    padding-bottom: 16px;
+  }
+  
+  .footerContent {
+    display: flex;
+  }
+  
+  .footerLeft {
+    margin-left: 60px;
+    color: white;
+  }
+  
+  .footerRight {
+    margin-right: 60px;
+  }
+  
